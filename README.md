@@ -1,11 +1,7 @@
 This is read me file
 
-testbranch2
+testbranch1
 
-testbranch2
-testbranch2
-testbranch2
+testbranch1 testbranch1 testbranch1
 
-testbranch2
-testbranch2
-
+testbranch1 testbranch1
