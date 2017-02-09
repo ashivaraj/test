@@ -1,19 +1,7 @@
 This is read me file
 
+testmaster
 
+testmaster testmaster testmaster
 
-testbranch1 branch
-testbranch1 branch
-
-testbranch1 branch
-
-testbranch1 branch
-
-Test Master branch 
-Test Master branch
-
-Test Master branch
-Test Master branch
-
-
-Test Master branch
+testmaster testmaster
